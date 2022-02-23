@@ -1,4 +1,4 @@
-# Questoes-LAPISCO
+# Desafio-LAPISCO
 Desafio Visão Computacional LAPISCO
 
 
